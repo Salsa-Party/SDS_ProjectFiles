@@ -52,7 +52,7 @@ Days.to.Adoption | Days spent in the shelter
 Code is run linearly (dependent on what is run above):
 
 ```{r}
-mean(shelter$Days.to.Adoption)
+sd(shelter$Days.to.Adoption)
 ```
 
 You can suppress the code:
