@@ -26,7 +26,7 @@ shelter <- read.csv('shelter.csv')
 Let's get a summary of the variables:
 
 ```{r}
-summary(shelter)
+summ(shelter)
 ```
 
 # **2. Making Tables**
